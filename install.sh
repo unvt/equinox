@@ -1,7 +1,7 @@
 sudo true
 sudo apt update
 sudo apt upgrade
-sudo apt install autoconf automake bash curl g++ git h2o htop libtool linux-headers make nginx nodejs npm python ruby sqlite tmux vim yarn zip 
+sudo apt install -y autoconf automake bash curl g++ git h2o htop libtool linux-headers make nginx nodejs npm python ruby sqlite tmux vim yarn zip 
 git clone https://github.com/mapbox/tippecanoe
 cd tippecanoe; make; make install; cd ..
 rm -rf tippecanoe
