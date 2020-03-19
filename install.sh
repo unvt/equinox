@@ -1,7 +1,7 @@
 sudo true
-sudo apt --force-yes update
-sudo apt --force-yes upgrade
-sudo apt install --force-yes autoconf automake bash curl g++ git h2o htop libsqlite3-dev libtool linux-headers make nginx nodejs npm python ruby sqlite tmux vim yarn zip 
+sudo apt update
+sudo apt upgrade
+sudo apt install --allow-change-held-packages autoconf automake bash curl g++ git h2o htop libsqlite3-dev libtool linux-headers make nginx nodejs npm python ruby sqlite tmux vim yarn zip 
 git clone https://github.com/mapbox/tippecanoe
 cd tippecanoe; make; make install; cd ..
 rm -rf tippecanoe
