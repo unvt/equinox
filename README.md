@@ -1,5 +1,4 @@
-# equinox
-UNVT on a fresh Raspbian Lite - experimental
+# equinox: UNVT one-line installer for Raspbian Lite
 
 # Installing in a fresh Raspbian Lite
 ```
