@@ -8,9 +8,9 @@ sudo apt update
 sudo apt upgrade
 sudo apt install --allow-change-held-packages autoconf automake git h2o libsqlite3-dev libtool linux-headers nodejs ruby sqlite tmux vim yarn zip 
 git clone https://github.com/mapbox/tippecanoe
-cd tippecanoe; make -j3 LDFLAGS="-latomic"; make install; cd ..
+cd tippecanoe; make -j3 LDFLAGS="-latomic"; sudo make install; cd ..
 rm -rf tippecanoe
-yarn global add browserify budo hjson pm2 rollup @mapbox/mapbox-gl-style-spec @pushcorn/hocon-parser
+sudo yarn global add browserify budo hjson pm2 rollup @mapbox/mapbox-gl-style-spec @pushcorn/hocon-parser
 git clone https://github.com/ibesora/vt-optimizer
 cd vt-optimizer; npm install; cd ..
 
