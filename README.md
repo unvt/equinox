@@ -1,5 +1,5 @@
 # equinox
-UNVT on host OS - experimental
+UNVT on a fresh Raspbian Lite - experimental
 
 # Installing in a fresh Raspbian Lite
 ```
