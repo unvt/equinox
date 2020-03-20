@@ -1,6 +1,7 @@
 sudo true
 sudo apt update
 sudo apt upgrade
+curl -sL https://deb.nodesource.com/setup_13.x | sudo -E bash -
 sudo apt install --allow-change-held-packages autoconf automake bash curl g++ git h2o htop libsqlite3-dev libtool linux-headers make nginx nodejs npm python ruby sqlite tmux vim yarn zip 
 git clone https://github.com/mapbox/tippecanoe
 cd tippecanoe; make -j; make install; cd ..
