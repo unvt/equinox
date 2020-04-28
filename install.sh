@@ -10,4 +10,4 @@ rm -rf tippecanoe
 sudo yarn global add browserify budo hjson pm2 rollup @mapbox/mapbox-gl-style-spec @pushcorn/hocon-parser
 git clone https://github.com/ibesora/vt-optimizer
 cd vt-optimizer; npm install; cd ..
-sudo gem install mdless
+sudo gem install mdless hocon
