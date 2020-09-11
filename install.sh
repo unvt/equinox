@@ -12,3 +12,5 @@ sudo yarn global add browserify budo hjson pm2 rollup @mapbox/mapbox-gl-style-sp
 git clone https://github.com/ibesora/vt-optimizer
 cd vt-optimizer; npm install; cd ..
 sudo gem install mdless hocon
+wget -O - https://code.headmelted.com/installers/apt.sh | sudo bash -
+
