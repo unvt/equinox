@@ -30,6 +30,7 @@ curl -sL https://unvt.github.io/equinox/install.sh
 - ruby: Interpreter of object-oriented sripting language Ruby
 - sqlite3: Command line interface for SQLite 3
 - tmux: terminal multiplexer
+- code-oss: Visual Studio Code
 - vim: Vi IMproved - enhanced vi editor
 - yarn: Fast, reliable, and secure dependency management
 - zip: Archiver for .zip files
