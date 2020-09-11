@@ -1,6 +1,6 @@
-# equinox: UNVT one-line installer for Raspbian Lite
+# equinox: UNVT one-line installer for Raspberry Pi OS
 
-# Installing in a fresh Raspbian Lite
+# Installing in a fresh Raspberry Pi OS
 ```
 curl -sL https://unvt.github.io/equinox/install.sh | bash -
 ```
