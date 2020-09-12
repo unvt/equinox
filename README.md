@@ -32,6 +32,7 @@ curl -sL https://unvt.github.io/equinox/install.sh
 - tmux: terminal multiplexer
 - code-oss: Visual Studio Code
 - vim: Vi IMproved - enhanced vi editor
+- xrdp: Remote Desktop Protocol (RDP) server
 - yarn: Fast, reliable, and secure dependency management
 - zip: Archiver for .zip files
 
