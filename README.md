@@ -57,4 +57,4 @@ curl -sL https://unvt.github.io/equinox/install.sh
 - TODO: mdless: A CLI that provides a formatted and highlighted view of Markdown files in a terminal
 
 # About the name
-I created this project on the spring equinox of 2020. 
+I started this project on the spring equinox of 2020. 
