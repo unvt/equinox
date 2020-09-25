@@ -1,6 +1,7 @@
 # equinox: UNVT one-line installer for Raspberry Pi OS
 
-# Installing in a fresh Raspberry Pi OS
+# How to install
+On Raspberry Pi OS, please execute: 
 ```
 curl -sL https://unvt.github.io/equinox/install.sh | bash -
 ```
