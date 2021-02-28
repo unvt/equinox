@@ -28,6 +28,7 @@ curl -sL https://unvt.github.io/equinox/install.sh
 - git: fast, scalable, distributed revision control system
 - nginx: small, powerful, scalable web/proxy server
 - nodejs (Node.js 13): evented I/O for V8 javascript - runtime executable
+- parallel: build and execute command lines from standard input in parallel
 - ruby: Interpreter of object-oriented sripting language Ruby
 - sqlite3: Command line interface for SQLite 3
 - tmux: terminal multiplexer
