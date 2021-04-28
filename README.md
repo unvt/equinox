@@ -32,7 +32,7 @@ curl -sL https://unvt.github.io/equinox/install.sh
 - ruby: Interpreter of object-oriented sripting language Ruby
 - sqlite3: Command line interface for SQLite 3
 - tmux: terminal multiplexer
-- code-oss: Visual Studio Code
+- code: Visual Studio Code
 - vim: Vi IMproved - enhanced vi editor
 - xrdp: Remote Desktop Protocol (RDP) server
 - yarn: Fast, reliable, and secure dependency management
@@ -54,9 +54,6 @@ curl -sL https://unvt.github.io/equinox/install.sh
 - pm2: Production process manager for Node.JS applications with a built-in load balancer
 - rollup: Next-generation ES module bundler
 - @pushcorn/hocon-parser: A HOCON Parser for Node.js
-
-## Tools on Ruby
-- TODO: mdless: A CLI that provides a formatted and highlighted view of Markdown files in a terminal
 
 # About the name
 I started this project on the spring equinox of 2020. 
