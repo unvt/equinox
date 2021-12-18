@@ -15,8 +15,10 @@ curl -sL https://unvt.github.io/equinox/install.sh
 
 # List of software installed by `equinox`
 ## Geospatial
+- charites: An easy, intuitive, and efficient command-line tool for writing vector map styles compatible with the Mapbox and MapLibre Style Specification in YAML
 - gdal-bin: Geospatial Data Abstraction Library - Utility programs
 - osmium-tool: Command line tool for working with OpenStreetMap data
+- pdal: Point Data Abstraction Library
 - tippecanoe: Builds vector tilesets from large (or small) collections of GeoJSON, Geobuf, or CSV features.
 
 ### Geospatial on Node.js
