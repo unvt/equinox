@@ -14,5 +14,5 @@ sudo yarn global add browserify budo hjson pm2 rollup @mapbox/mapbox-gl-style-sp
 git clone https://github.com/ibesora/vt-optimizer.git
 cd vt-optimizer; npm install; cd ..
 git clone https://github.com/unvt/charites.git
-cd charites; npm install; npm run build; sudo npm install --global .
+cd charites; npm install; npm run build; sudo npm install --global .; cd ..
 rm -fr charites
