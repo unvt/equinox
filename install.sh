@@ -10,9 +10,6 @@ sudo service xrdp restart
 git clone https://github.com/felt/tippecanoe
 cd tippecanoe; make -j3 LDFLAGS="-latomic"; sudo make install; cd ..
 rm -rf tippecanoe
-sudo yarn global add browserify budo hjson pm2 rollup @mapbox/mapbox-gl-style-spec @pushcorn/hocon-parser
+sudo yarn global add browserify budo hjson pm2 rollup @mapbox/mapbox-gl-style-spec @pushcorn/hocon-parser @unvt/charites
 git clone https://github.com/ibesora/vt-optimizer.git
 cd vt-optimizer; npm install; cd ..
-git clone https://github.com/unvt/charites.git
-cd charites; npm install; npm run build; sudo npm install --global .; cd ..
-rm -fr charites
